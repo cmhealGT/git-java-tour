@@ -6,8 +6,6 @@ I've read through the Git Basics File.
 
 Bobby Orr (5/10/70)
 
-Tom Brady (2/3/02)
-
 Pedro Martinez (10/27/04)
 
 Mike Lowell (10/28/08)
